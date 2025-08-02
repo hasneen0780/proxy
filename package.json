@@ -1,0 +1,19 @@
+{
+  "name": "proxy",
+  "version": "1.0.0",
+  "description": "Simple HLS player using native Node.js server",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "node",
+    "hls",
+    "video",
+    "player",
+    "http"
+  ],
+  "author": "انت",
+  "license": "MIT",
+  "dependencies": {}
+}
