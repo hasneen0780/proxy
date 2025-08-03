@@ -4,7 +4,7 @@
   "description": "Simple HLS player using native Node.js server",
   "main": "server.js",
   "scripts": {
-    "start": "node server.js"
+    "start": "node app.js"
   },
   "keywords": [
     "node",
